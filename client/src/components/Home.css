@@ -1,0 +1,32 @@
+.home {
+    text-align: center; 
+    padding: 30px; 
+    background-color: black;
+    
+  }
+  
+  .home h1 {
+    font-size: 45px; 
+    color: white; 
+    margin-bottom: 10px;
+  }
+  
+  .home p {
+    font-size: 30px; 
+    color: white; 
+    margin-bottom: 20px;
+  }
+  
+  .home .slider-container {
+    max-width: 1000px;
+    margin: 0 auto; 
+    width: 90%;
+  }
+  
+  .slider-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:20px;
+    margin: 0 auto;
+  }

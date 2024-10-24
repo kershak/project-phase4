@@ -1,0 +1,198 @@
+product_name,description,price,stock_quantity,in_stock
+i-A110LT,"Iris authentication access control / Auto tilting / Multiple authenticaions(Iris+RF Card+Pin code) / Long distance authentication(40~100cm) / authentication speed: > 1sec / Storage up to 10,000 ID's /Visual and voice guidance / Temperature scan  / Auxiliary LED  / Various system interfaces: TCP/IP, RS485, RS232, Wiegand, USB2.0 / DC12V",2800,1700,TRUE
+T102K-TW,Electronic deadbolt / touchable keypad / pin code access / guest password / auto lock / weatherproof / Optional: remote door lock control via BLE communication pack and App,145,94,TRUE
+ACE-C320NUB,"1/3.2"" Exmor RS Progressive Scan SONY STARVIS CMOS / 800TVL / 0.2Lux / 32x32mm / WDR / DNR / D/N option / DC12V / Optional board and pinhole lenses available",73,32,TRUE
+ACE-WDR38CHB,"Sony 1/3"" Vertical Double-Density Interline CCD, 480TVL, D-D/N, WDR, OSD, Digital zoom, 3.6mm lens                                   (replaces WDR380 & EDR380)",143,88,TRUE
+ACE-BW320EB,"1/3"" 1.3MP Sensor / Max 900TVL /Exmor RS Progressive Scan SONY STARVIS CMOS / 800TVL / 0.2Lux / 32x32mm / WDR / DNR / D/N option / DC12V / Optional board and pinhole lenses available",68,32,TRUE
+ACE-c2MIB4,"1080p HD-TVI Module Camera
+1/2.7” PROGRESSIVE SCAN CMOS
+3.7mm MP board lens 
+UTC / 2D DNR / BLC / HLC
+32x32mm / DC12V",68,23,TRUE
+ACE-HMS6332-Ib,"1080p IP Module Camera
+1/2.8"" Progressive Scan Sony Starvis CMOS
+3.6mm MP board lens
+3D DNR / BLC / DSS / WDR / Digital DN
+32x32mm / DC12V / Optional POE",234,92,TRUE
+ACE-HDi47B,"1080p IP Module Camera
+2.43 Megapixel, 1/2.8″ SONY Exmor CMOS
+3.6mm MP board lens
+3D DNR / BLC / DSS / HLC / AGC / AWB / Onvif
+47x47mm / DC12V / POE",287,136,TRUE
+KPC-BW22E,"B/W EXview Analog Mini Square Camera
+1/3” Sony EXview B/W CCD
+3.6mm board lens 600TVL
+Super Low Lux 0.003 / AGC / BLC
+23x23mm / DC12V",72,32,TRUE
+KPC-BW190EWX,"B/W EXview Analog Mini Bullet Camera
+1/3” Sony EXview B/W CCD
+3.6mm board lens 600TVL
+Super Low Lux 0.003 / AGC / BLC
+Ø19mm / DC12V / IP67",86,44,TRUE
+KPC-C20NUB,"HD Analog Mini Square Camera
+1/3.2” 1.3MP SONY STARVIS CMOS / 800TVL / 1.2Lux / WDR / 2DNR / D-DN / DC12V / 22x23mm / Optional lenses
+",78,32,TRUE
+KPC-C500NUB,"HD Analog Mini Square Camera
+1/3.2” 1.3MP SONY STARVIS CMOS / 800TVL / 1.2Lux / WDR / 2DNR / D-DN / DC12V / 25x25mm / Optional lenses
+",88,38,TRUE
+KPC-C700NUB,"HD Analog Mini Square Camera
+1/3.2” 1.3MP SONY STARVIS CMOS / 800TVL / 1.2Lux / WDR / 2DNR / D-DN / DC12V / 30x30mm / Optional lenses
+",88,38,TRUE
+KTC-MS3002NB,"HD Analog Mini Square Camera
+ 4-1 (TVI, CVI, AHD, CVBS)
+3.6(MP) Board lens
+30x30mm / DC12V",95,48,TRUE
+KPC-E23NUB,"Analog Mini Square Camera
+1/3” 960H SONY EXview HAD CCD II
+3.6mm board lens 750TVL 0.15 Lux
+2DDNR / HLC / BLC / AWB / Mirror / OSD
+23x23mm / DC12V",98,58,TRUE
+KEZ-c2MIB4,"2MP Progressive Scan CMOS / 3.7mm MP board lens / UTC, 2DNR, HLC, BLC / 30x30mm / DC12V",72,25,TRUE
+KTC-HMS7130-HMB,"1/2.8"" Progressive Scan CMOS / (EX)SDI, TVI, CVI, AVI, CVBS / 1080p@30fps(25fps)/720p@60fps(50fps)/720p@30fps(25fps) / 0.2Lux(F2.0, AGC33dB, DSS:x2) / AUTO/COLOR/B&W ",136,59,TRUE
+KNC-HDi47B,"2.43 Megapixel, 1/2.8″ SONY Exmor CMOS / 3.7mm MP board lens / 3D DNR / BLC / DSS / HLC / AGC / AWB / Onvif /
+47x47mm / DC12V / POE",298,139,TRUE
+KNC-HMS6330-iB,"1/2.8"" Progressive Scan SONY STARVIS CMOS / 1080p@30fps(25fps)/720p@60fps(50fps)/720p@30fps(25fps) / 0.05Lux(F2.5, DSS OFF) 0.01lUX (DSS ON) ",247,75,TRUE
+KPC-CJ230NUWX,"Analog Mini Bullet Camera
+1/3” 960H SONY EXview HAD CCD II
+3.6mm board lens 750TVL 0.1 Lux
+2D DNR / BLC / AWB / AGC / ATR / OSD
+Ø23mm / DC12V / IP67",97,50,TRUE
+KEZ-c2CRB37," HD-TVI Mini Bullet Camera
+2MP Progressive Scan CMOS
+3.7mm MP board lens
+UTC, 2DNR, HLC, BLC
+Ø19mm / DC12V / IP67",75,37,TRUE
+KTC-HMB7823-HWX," HD-SDI Mini Bullet Camera
+2MP Progressive Scan CMOS
+3.7mm MP board lens
+3DNR, DSS, BLC, DWDR, OSD, AGC, D-Zoom
+Ø23mm / DC12V / IP67",137,74,TRUE
+KPC-HDB450MW," HD-SDI Mini Bullet Camera
+2MP Progressive Scan CMOS
+3.6mm MP board lens
+3DNR, BLC, WDR, OSD, AGC, D-Zoom
+Ø45mm / DC12V",155,92,TRUE
+KNC-HDBi230MWX," IP Mini Bullet Camera
+2.43 Megapixel, 1/2.8″ SONY Exmor CMOS
+3.7mm MP board lens
+3D DNR / BLC / DSS / AGC / AWB / D-WDR / Onvif
+Ø23 / DC12V / POE / IP66",292,143,TRUE
+KNC-HMB6319-iWX," IP Mini Bullet Camera
+2.43 Megapixel, 1/2.8″ SONY Exmor CMOS
+3.7mm MP board lens
+3D DNR / BLC / DSS / AGC / AWB / D-WDR / Onvif
+Ø23 / DC12V / POE / IP66 / White housing",287,86,TRUE
+KPC-DN6360NU,"Analog Box Camera
+1/3” 960H SONY EXview HAD CCD II
+C/CS Mount  /  750TVL 0.001 Lux
+2DDNR / BLC / AWB / AGC / ATR / Mirror / OSD
+True D&N(ICR) / AC24/DC12 ",123,71,TRUE
+KTC-TBN6302N                         (KEZ-C2RICS)," HD-TVI Box Camera
+2MP Progressive Scan CMOS
+C/ CS Mount / True D&N(ICR)
+UTC, 3DNR, HLC, BLC, DWDR, OSD, AWB
+ AC24/DC12 ",98,56,TRUE
+KPC-DS81NUB,"Analog Dome Camera
+1/3” 960H SONY EXview HAD CCD II
+3.6mm board lens 750TVL 0.1 Lux
+2DDNR / AGC / DWDR (ATR) / Digital D&N
+DC12V",42,27,TRUE
+KPC-Di36NW,"Analog Dome Camera
+1/3” 960H SONY EXview HAD CCD II
+3.6mm board lens 750TVL 0.1 Lux
+2DDNR / AGC / DWDR (ATR) / Digital D&N
+DC12V",35,21,TRUE
+KPC-DNS102NUV,"Analog Dome Camera
+1/3” 960H SONY EXview HAD CCD II
+2.8-12mm VF lens 750TVL 0.01 Lux
+2DDNR / BLC / AWB / AGC / DWDR / Mirror / OSD
+AC24/DC12 ",59,40,TRUE
+KPC-DNNS102NUVB,"Analog Dome Camera
+1/3” 960H SONY EXview HAD CCD II
+2.8-12mm VF lens 750TVL 0.01 Lux
+2DDNR / BLC / AWB / AGC / DWDR / Mirror / OSD
+AC24/DC12 /  /  IR 30 LED's",69,50,TRUE
+KEZ-c2DI28V12NB," HD-TVI Dome Camera
+2MP Progressive Scan CMOS
+2.8-12mm VF lens  0.5 Lux
+UTC, 3DNR, HLC, BLC, DWDR, OSD, AWB
+AC24/DC12  / White housing",72,55,TRUE
+KPC-VNNS102NUV,"Analog Dome Camera
+1/3” 960H SONY EXview HAD CCD II
+2.8-12mm VF lens 750TVL 0.01 Lux
+2DDNR / DWDR / HLC / BLC / AWB / OSD
+AC24/DC12  / IP66 / 30 LED's",138,83,TRUE
+KEZ-c2DR28V12N," HD-TVI Dome Camera
+2MP Progressive Scan CMOS
+2.8-12mm VF lens  0.5 Lux
+UTC, 3DNR, HLC, BLC, DWDR, OSD, AWB
+AC24/DC12  / IP68",95,70,TRUE
+KNC-p2DR28V12N," IP Dome Camera
+2.43 Megapixel, 1/2.8″ SONY Exmor CMOS
+2.8-12mm VF lens  0.2 Lux
+3D DNR / BLC / DSS / AGC / AWB / D-WDR
+ONVIF / IP68 / DC12V /  POE",175,115,TRUE
+KPC-N502NUB,"Analog Bullet Camera
+1/3” 960H SONY EXview HAD CCD II
+750 TVL / 2.8-12mm VF lens 0 Lux (with IR on)
+2DDNR / DWDR / HLC / BLC / AWB / OSD
+True D&N / AC24/DC12 / IP66 / 20 LED's",125,85,TRUE
+KEZ-c2BR4IR," HD-TVI Bullet Camera
+2MP Progressive Scan CMOS
+1080p / 3.6mm MP board lens
+True D&N / UTC, 2DNR, HLC, BLC
+DC12V / IP67 / 20 LED's",67,47,TRUE
+KEZ-C2BR4IRBC," HD-TVI Bullet Camera
+2MP Progressive Scan CMOS
+1080p / 3.6mm MP board lens
+True D&N / UTC, 2DNR, HLC, BLC
+DC12V / IP67 / 20 LED's / Cable Thru",75,47,TRUE
+KEZ-c2BR28V12IRB," HD-TVI Bullet Camera
+2MP Progressive Scan CMOS
+1080p / 2.8 - 12mm VF lens 0.5 Lux
+True D&N, WDR, UTC, 3DNR, HLC, BLC
+AC24/DC12 / IP66 / 20 LED's",140,87,TRUE
+KEZ-C2BR5V50IR," HD-TVI Bullet Camera
+2MP Progressive Scan CMOS
+1080p / 5 - 50mm VF lens 0.5 Lux
+True D&N, WDR, UTC, 3DNR, HLC, BLC
+AC24/DC12 / IP66 / 20 LED's",175,112,TRUE
+KPT-SPDN300NUC(T)H,"Analog PTZ Camera Tinted
+1/4 ” SONY Double Scan Super HAD CCD II 
+AF 30x Optical Zoom
+750TVL 0.2 Lux  / True D&N
+WDR, 3DNR, D-Zoom, DSS, OSD, IP66 / AC24V",375,0,TRUE
+KPT-HMP7812-TAZN                  (KEZ-C2SR12),"HD-TVI PTZ Camera
+2.38MP Progressive CMOS
+AF 12x Optical Zoom
+1080p 1 Lux / True D&N
+UTC, WDR, 3DNR, DSS, BLC, IP66, AC24V",425,275,TRUE
+NC-4MKA-V2,"SONY HDR Starvis WDR IP, Artificial Intelligence(Human, Car), 4MP High-Quality Outdoor VDome , 2.8mm, IP66, DC12V,PoE, 100ft EXIR IR, ONVIF Profile-S, Made in Korea, NDAA",198,131,TRUE
+NC-4MKA-B2,"SONY HDR Starvis WDR IP, Artificial Intelligence(Human, Car), 4MP High-Quality Outdoor Bullet , 2.8mm, IP66, DC12V,PoE, 100ft EXIR IR, ONVIF Profile-S, Made in Korea, NDAA",185,123,TRUE
+NC-4MKA-T2,"SONY HDR Starvis WDR IP Artificial Intelligence(Human, Car), 4MP High-Quality Outdoor Turret , 2.8mm, IP66, DC12V,PoE, 100ft EXIR IR, ONVIF Profile-S, Made in Korea, NDAA",190,129,TRUE
+NC-4MKA-V21,"SONY HDR Starvis WDR IP, Artificial Intelligence(Human, Car), 4MP Autofocus Vandal Dome, 2.8~12mm, Audio in/out, Alarm, SD Rec, IP66, DC12V/AC24V,PoE, 150ft IR,ONVIF-S,  Made in Korea, NDAA",298,202,TRUE
+NC-4MKA-B21,"SONY HDR Starvis WDR IP, Artificial Intelligence(Human, Car), 4MP Autofocus Bullet, 2.8~12mm, SONY WDR, Audio in/out, Alarm, SD Rec, IP66, DC12V/AC24V,PoE, 150ft IR,ONVIF Profile-S,  Made in Korea, NDAA",278,191,TRUE
+NC-4MKA-T21,"SONY HDR Starvis WDR IP, Artificial Intelligence(Human, Car), 4MP Autofocus Turret Dome, 2.8~12mm, SONY WDR, Audio input, AlarmSD Rec, IP66, DC12V/AC24V,PoE, 150ft IR,ONVIF Profile-S,  Made in Korea, NDAA",259,178,TRUE
+NC-4MKA-B55,"5~50mm Autofocus LPR,  5MP, Long Range Bullet, True WDR, Audio input, Alarm, SD Rec, IP66, DC12V/AC24V,PoE, 300ft EXIR,ONVIF Profile-S, Made in Korea",370,255,TRUE
+NC-4MX-V2,"SONY HDR Starvis WDR IP, Artificial Intelligence(Human, Car), 4MP High-Quality Outdoor Bullet , 2.8mm, IP66, DC12V,PoE, 100ft EXIR IR, ONVIF Profile-S, Made in Korea, NDAA",135,91,TRUE
+NC-4MX-B2,"SONY HDR Starvis WDR IP Artificial Intelligence(Human, Car), 4MP High-Quality Outdoor Turret , 2.8mm, IP66, DC12V,PoE, 100ft EXIR IR, ONVIF Profile-S, Made in Korea, NDAA",120,82,TRUE
+NC-4MX-T2,"SONY HDR Starvis WDR IP, Artificial Intelligence(Human, Car), 4MP Autofocus Vandal Dome, 2.8~12mm, Audio in/out, Alarm, SD Rec, IP66, DC12V/AC24V,PoE, 150ft IR,ONVIF-S,  Made in Korea, NDAA",170,117,TRUE
+NC-4MX-V21,"4MP IP, High Performance Outdoor Autofocus Vandal Dome, 2.8~12mm, SD Rec, IP66, DC12V/AC24V,PoE, 150ft IR,ONVIF Profile-S",189,131,TRUE
+NC-4MX-T21,"4MP IP, High Performance Outdoor Autofocus Turret Dome, 2.8~12mm, SD Rec, IP66, DC12V/AC24V,PoE, 150ft IR,ONVIF Profile-S",225,155,TRUE
+NC-8MX-V21,"8MP IP, Ultra 4K Outdoor Autofocus Vandal Dome, 3.6~10mm, SD Rec,  IP66, DC12V/AC24V,PoE, 150ft IR, ONVIF Profile-S",375,258,TRUE
+NC-8MX-B21,"8MP IP, Ultra 4K Outdoor  Autofocus Bullet, 3.6~10mm, SD Rec, IP66, DC12V/AC24V,PoE, 150ft EXIR,ONVIF Profile-S",375,258,TRUE
+KNC-SPDNi120HD,"IP PTZ Camera
+2.38MP Progressive CMOS
+1080p 0.2 Lux / True D&N
+AF 12x Optical zoom
+WDR, 3DNR, DSS, BLC, IP66, AC24V",989,620,TRUE
+SD5K-C400,"4K Hybrid Compact  DVR 4ch TVI/4ch IP, TVI/AHD/CVBS, A Powerful True Hybrid DVR, HDMI/VGA/SD‐Spot, 4 x Alarm, 4 x Audio, RS‐485, 1‐HDD bay, Made in Korea, NDAA, TAA",247,141,TRUE
+SD5K-C800,"4K Hybrid Compact  DVR 8ch TVI/8ch IP, TVI/AHD/CVBS, A Powerful True Hybrid DVR, HDMI/VGA/SD‐Spot, 4 x Alarm, 4 x Audio, RS‐485, 1‐HDD bay, Made in Korea, NDAA, TAA",415,237,TRUE
+SD5K-C1600,"4K Hybrid Compact  DVR 16ch TVI/16ch IP(2MP), TVI/AHD/CVBS, A Powerful Hybrid DVR, HDMI/VGA/SD‐Spot, 4 x Alarm, 4 x Audio, RS‐485, 2‐HDD bays, Made in Korea, NDAA, TAA",478,273,TRUE
+SD5-U1600,"5MP Smart Series High-Performance Ultra DVR 16ch TVI/16ch IP(5MP), TVI/AHD/CVBS,  HDMI/VGA(HD spot),SD-Spot, 4 x Alarm, 4 x Audio, RS-485, RAID5, 5-HDD bays, Rackears, Made in Korea",1045,631,TRUE
+SN8K-C400,"4K Smart Sereis Compact NVR, 4ch/4POE, Optional Ai‐Box, 4K HDMI/VGA, 2 x Alarm, Audio‐IP, 1‐NIC, RS‐ 485, 1‐HDD bay, Made in Korea, NDAA, TAA",312,178,TRUE
+SN8K-C800,"4K Smart Series Compact NVR, 8ch/8POE, Optional Ai‐Box, 4K HDMI/VGA, 2 x Alarm, Audio‐IP, 1‐NIC, RS‐ 485, 2‐HDD bays, Made in Korea, NDAA, TAA",567,324,TRUE
+SN8K-C1600,"K Smart Series Compact NVR, 16ch/16POE, Optional Ai‐Box, 4K HDMI/VGA, SD‐Spot, 2 x Alarm, Audio‐ IP, 2‐NICs, RS‐485, 2‐HDD bays, Made in Korea, NDAA, TAA",710,406,TRUE
+SN8-U800,"4K Smart Series High-Performance Ultra NVR, 8ch/8POE, Up to 4K REC/Display,  4K HDMI/VGA, 2 x Alarm,1/1 Audio,2-NICs, RS-485, Rackears, RAID5, 5-HDD bays, eSATA, Compatible with the AI box, Made in Korea",1080,655,TRUE
+SN8-U1600,"4K Smart Series High-Performance Ultra NVR, 16ch/16POE, Up to 4K REC/Display,  4K HDMI/VGA, 2 x Alarm,1/1 Audio,2-NICs, RS-485, Rackears, RAID5, 5-HDD bays, eSATA, Compatible with the AI box, Made in Korea",1165,705,TRUE
+SN8K-U3200,"4K Smart Series High-Performance Ultra NVR, 32ch/16POE, Up to 4K REC/Display,  4K HDMI/VGA, Alarm in 16/out 8, Audio 1/1,2-NICs, RS-485/232, Rackears, RAID5, 5-HDD bays,eSATA, NOT compatible with the AI box,Made in Korea",2155,1305,TRUE

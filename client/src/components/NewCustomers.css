@@ -1,0 +1,27 @@
+.new-product-form h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: black;
+    padding-left: 30px;
+}
+.new-product-form input, 
+.new-product-form select {
+  width: calc(50% - 020px); 
+  padding: 15px; 
+  margin-bottom: 15px; 
+  border: 10px solid rgb(153, 147, 147); 
+  border-radius: 40px; 
+  box-sizing: border-box;
+  font-size: 20px; 
+}
+.new-product-form button {
+    background-color: #007BFF;
+    color: #fff; 
+    border: none; 
+    padding: 20px 25px; 
+    margin-left: 20px;
+    border-radius: 4px; 
+    font-size: 25px; 
+    cursor: pointer; 
+    transition: background-color 0.3s ease; 
+}
